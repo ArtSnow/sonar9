@@ -1,0 +1,3 @@
+/*! licenses: /vendor.LICENSE.txt */
+import{bH as o,bJ as s}from"./startReactApp-BO40dYkn.js";import"./main-DgLkhlza.js";import{g as n,c as y,d as i}from"./AIAssuredIcon-CBQkazzM.js";const u="project-ai-code-assurance",j=o(({project:e,branch:t})=>s({queryKey:[u,e.key,"code-assurance","branch",t],queryFn:({queryKey:[r,c,d,A,a]})=>y(c,a)})),P=o(({project:e})=>s({queryKey:[u,e.key,"containsAiCode"],queryFn:({queryKey:[t,r]})=>n(r)})),p=o(({project:e})=>s({queryKey:[u,e.key,"detectedAiCode"],queryFn:({queryKey:[t,r]})=>i(r)}));export{p as a,P as b,j as u};
+//# sourceMappingURL=ai-code-assurance-CjlnDdzP.js.map

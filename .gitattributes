@@ -1,2 +1,2 @@
-sonar-application-25.4.0.105899.jar filter=lfs diff=lfs merge=lfs -text
-sonar-javascript-plugin-10.21.1.30825-multi.jar filter=lfs diff=lfs merge=lfs -text
+sonar-application-25.12.0.117093.jar filter=lfs diff=lfs merge=lfs -text
+sonar-javascript-plugin-11.7.1.36988-multi.jar filter=lfs diff=lfs merge=lfs -text

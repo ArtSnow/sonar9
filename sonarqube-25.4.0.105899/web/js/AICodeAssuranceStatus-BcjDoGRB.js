@@ -1,3 +1,0 @@
-/*! licenses: /vendor.LICENSE.txt */
-import{j as e,R as r,M as _}from"./echoes-qrJd0a4U.js";import{A as s,a as c}from"./AIAssuredIcon-Dp5hgA42.js";const t={[s.AI_CODE_ASSURED_ON]:"projects.ai_code_assurance_on.description",[s.AI_CODE_ASSURED_OFF]:"projects.ai_code_assurance_off.description",[s.AI_CODE_ASSURED_PASS]:"projects.ai_code_assurance_pass.description",[s.AI_CODE_ASSURED_FAIL]:"projects.ai_code_assurance_fail.description"};function A({aiCodeAssuranceStatus:a,...o}){return a===s.NONE?null:e.jsxs(r,{...o,"data-component":"ai-code-assurance-status",children:[e.jsx(c,{className:"sw-mr-1",variant:a}),e.jsx(_,{id:t[a]})]})}export{A};
-//# sourceMappingURL=AICodeAssuranceStatus-BcjDoGRB.js.map

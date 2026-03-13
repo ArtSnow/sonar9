@@ -1,0 +1,3 @@
+/*! licenses: /vendor.LICENSE.txt */
+import{c6 as r}from"./startReactApp-BO40dYkn.js";import{_ as t,a8 as i,N as n}from"./main-DgLkhlza.js";function u(e){return e!=null&&e.date?n(e.date):void 0}function v(e,s){if(!e)return;let a=e.modeParam||e.parameter||"";switch(e.mode){case r.SpecificAnalysis:a=s(e.date);break;case r.PreviousVersion:a=a||s(e.date);break;case"previous_version":if(!a)return t("overview.period.previous_version_only_date");break;case"date":a=a&&s(a);break;case"manual_baseline":a=a||s(e.date);break}return i("overview.period.".concat(e.mode.toLowerCase()),a)}function f(e){return e.project!==void 0}export{u as a,v as g,f as i};
+//# sourceMappingURL=new-code-period-CRoqzj18.js.map
