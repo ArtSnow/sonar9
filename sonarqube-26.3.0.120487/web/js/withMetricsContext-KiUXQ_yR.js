@@ -1,0 +1,3 @@
+/*! licenses: /vendor.LICENSE.txt */
+var x=Object.defineProperty;var c=(e,t,r)=>t in e?x(e,t,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[t]=r;var s=(e,t,r)=>c(e,typeof t!="symbol"?t+"":t,r);import{a as o}from"./vendor-H6-pGJ9Z.js";import{ah as p,gp as n}from"./startReactApp-CUCInDRS.js";import{j as i}from"./echoes-DaE4R_0k.js";function M(e){var t;return t=class extends o.PureComponent{render(){return i.jsx(n.Consumer,{children:a=>i.jsx(e,{metrics:a,...this.props})})}},s(t,"displayName",p(e,"withMetricsContext")),t}function d(){return o.useContext(n)}export{d as u,M as w};
+//# sourceMappingURL=withMetricsContext-KiUXQ_yR.js.map
